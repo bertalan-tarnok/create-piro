@@ -1,0 +1,19 @@
+{
+  "name": "create-piro",
+  "version": "0.2.1",
+  "description": "Create a piro app in seconds",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Bertalan Tárnok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertalan-tarnok/create-piro"
+  },
+  "bin": "index.js",
+  "files": [
+    "index.js",
+    "template/*"
+  ]
+}
